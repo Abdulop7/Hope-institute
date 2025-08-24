@@ -49,7 +49,7 @@ export default function About() {
             className="relative w-full max-w-lg mx-auto"
           >
             <img
-              src="/about-institute.jpg"
+              src="/about-institute.jfif"
               alt="About Our Institute"
               className="w-full rounded-3xl shadow-2xl border border-blue-200 relative z-10"
             />
